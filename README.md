@@ -12,4 +12,4 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 The filtering of text for named entities are useful for determining document similarity with high value words. So, this process for named entity filtering will be the basis for many other document and noun relationship algorithms.
 
 ## Improvements
-By itself, the filtering for named entities yields limited useful results. The process can be extended through the incorporation of other algorithms such as ID-DTF and named entity relationships. Furthermore, the incorporation of some words such as adverbs and adjectives may yield better docment comparisons.
+By itself, the filtering for named entities yields limited useful results. The process can be extended through the incorporation of other algorithms such as TF-IDF and named entity relationships. Furthermore, the incorporation of some words such as adverbs and adjectives may yield better docment comparisons.
